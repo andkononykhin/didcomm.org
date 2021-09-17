@@ -1,12 +1,12 @@
 ---
-title: A
+title: A or B
 publisher: Merciful12
 license: MIT
-piuri: https://didcomm.org/a/1.0
+piuri: https://didcomm.org/av/1.0
 status: Demonstrated
 summary: My A protocol summary
 tags:
-  - star-wars
+  - star-war
   - tag4
   - tag5
 authors:
