@@ -44,3 +44,9 @@ json 9.0.0
 ```
 <h1>Title</h1>
 ```
+
+
+[file](nofile.test)
+
+[awesome dead link](https://deadlink.link)
+
