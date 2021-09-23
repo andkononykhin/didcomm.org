@@ -8,7 +8,6 @@ tags:
   - faster-than-light-travel
   - star-wars
 authors:
-    email: you@github-email
   - name: Author without email
 
 ---
