@@ -1,5 +1,5 @@
 ---
-title: test empty
+title:
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/testempty/0.1
