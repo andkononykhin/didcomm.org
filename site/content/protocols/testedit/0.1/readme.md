@@ -1,12 +1,12 @@
 ---
-title: Light Speed Protocol
+title: test edit
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/testedit/0.1
 status: Production
 summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
 tags:
-  - faster-than-light-travel
+  - star-wars
   - star-wars
 authors:
   - name: Your name
