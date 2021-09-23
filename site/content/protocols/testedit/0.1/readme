@@ -7,7 +7,6 @@ status: Production
 summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
 tags:
   - star-wars
-  - star-wars
 authors:
   - name: Your name
     email: you@github-email
